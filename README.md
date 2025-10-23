@@ -24,12 +24,15 @@
 
 **CIRCUIT DIAGRAM:**
 
+<img width="638" height="828" alt="image" src="https://github.com/user-attachments/assets/97b96693-7aa0-49a9-8dee-4aae5a3b4ed4" />
+
+
+<img width="616" height="784" alt="image" src="https://github.com/user-attachments/assets/0262918b-1c5d-4224-9d4b-87605dd0d3f8" />
 
 
 
 
-
-
+<img width="1133" height="454" alt="image" src="https://github.com/user-attachments/assets/5bc5fd8d-77e8-4721-bcdd-52b295de5ffb" />
 
 
 
@@ -52,4 +55,7 @@
 **RESULT:**
 
 *ThusKirchoff’s Current Law and Kirchoff’s Voltage law are verified practically and theoretically.*
+
+<img width="1132" height="589" alt="image" src="https://github.com/user-attachments/assets/0ae97b5d-1e9f-4843-b9a6-ff080cf7a34e" />
+
 
